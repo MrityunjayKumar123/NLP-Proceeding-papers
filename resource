@@ -22,5 +22,9 @@ Spark NLP:-
 
 http://bit.ly/Spark_Summit_Video
 
+NLP - Healthcare Case study:-
+
+http://bit.ly/JSL_Kaiser_Case_Study
+
 
 
