@@ -1,7 +1,7 @@
 # NLP-Proceeding-papers
 Special Interest Group on Linguistic Data &amp; Corpus-based Approaches to Natural Language Processing
 
-![picture alt](/Users/mrityunjay/Desktop/NLP-Proceeding-papers/images/Screenshot 2019-09-27 at 2.06.02 PM.png)
+![picture alt](https://github.com/MrityunjayKumar123/NLP-Proceeding-papers/blob/master/images/Screenshot 2019-09-27 at 2.06.02 PM.png)
 
 Sigdat(Special Interest Group on Linguistic Data &amp; Corpus-based Approaches to Natural Language Processing)
 --------------------------------------------------------------------------------------------------------------
