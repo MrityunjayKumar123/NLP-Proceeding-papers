@@ -17,7 +17,7 @@ https://www.aclweb.org/anthology/events/emnlp-2016/
 https://www.aclweb.org/anthology/events/emnlp-2015/
 
 
-Vedios...
+Videos...
 ---------------------------------------------------------------
 https://sigdat.org/videos
 
