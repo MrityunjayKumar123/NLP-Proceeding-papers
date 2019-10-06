@@ -34,7 +34,7 @@ Baidu research publications.
 ---------------------------------------------------------------
 http://research.baidu.com/Publications?research%5B%5D=0&year=0
 
-AI-Colloquim
+Baidu AI-Colloquim
 ---------------------------------------------------------------
 http://research.baidu.com/AI-Colloquium
 
