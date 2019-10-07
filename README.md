@@ -46,7 +46,7 @@ Baidu AI-Colloquim
 ---------------------------------------------------------------
 http://research.baidu.com/AI-Colloquium
 
-Google AI publications
+Google AI  research publications.
 ---------------------------------------------------------------
 https://ai.google/research/pubs/
 
@@ -54,8 +54,9 @@ Google AI Blog
 ---------------------------------------------------------------
 https://ai.googleblog.com/
 
-
-
+IBM research publications.
+---------------------------------------------------------------
+https://www.research.ibm.com/artificial-intelligence/publications/
 
 
 
