@@ -21,6 +21,14 @@ Videos...
 ---------------------------------------------------------------
 https://sigdat.org/videos
 
+ACL2019( Association for Computational Linguistics )
+---------------------------------------------------------------
+http://www.acl2019.org/EN/tutorials.xhtml
+
+Google @ ACL2019
+---------------------------------------------------------------
+https://ai.googleblog.com/2019/07/google-at-acl-2019.html
+
 Spark NLP...
 ---------------------------------------------------------------
 http://bit.ly/Spark_Summit_Video
