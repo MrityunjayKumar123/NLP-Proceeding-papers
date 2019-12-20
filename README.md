@@ -16,6 +16,7 @@ https://www.aclweb.org/anthology/events/emnlp-2016/
 
 https://www.aclweb.org/anthology/events/emnlp-2015/
 
+http://slazebni.cs.illinois.edu/spring17/
 
 Videos...
 ---------------------------------------------------------------
