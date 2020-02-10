@@ -23,6 +23,12 @@ Vedios.
 
 https://sigdat.org/videos
 
+LITERATURE ON NEURAL ARCHITECTURE SEARCH
+---------------------------------------------------------------
+https://www.automl.org/automl/literature-on-neural-architecture-search/
+
+
+
 Spark NLP.
 ---------------------------------------------------------------
 
