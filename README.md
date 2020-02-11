@@ -22,6 +22,13 @@ Videos...
 ---------------------------------------------------------------
 https://sigdat.org/videos
 
+
+LITERATURE ON NEURAL ARCHITECTURE SEARCH
+---------------------------------------------------------------
+https://www.automl.org/automl/literature-on-neural-architecture-search/
+
+
+
 ACL2019( Association for Computational Linguistics )
 ---------------------------------------------------------------
 http://www.acl2019.org/EN/tutorials.xhtml
