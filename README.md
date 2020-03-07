@@ -27,7 +27,9 @@ LITERATURE ON NEURAL ARCHITECTURE SEARCH
 ---------------------------------------------------------------
 https://www.automl.org/automl/literature-on-neural-architecture-search/
 
-
+AutoML
+---------------------------------------------------------------
+http://automl.chalearn.org/
 
 ACL2019( Association for Computational Linguistics )
 ---------------------------------------------------------------
